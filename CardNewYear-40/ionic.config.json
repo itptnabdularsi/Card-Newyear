@@ -1,0 +1,8 @@
+{
+  "name": "CardNewYear-40",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
